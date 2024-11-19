@@ -1,0 +1,11 @@
+pip
+setuptools
+wheel
+
+python-dotenv
+requests
+
+mysql-connector-python
+pg8000
+
+psutil
